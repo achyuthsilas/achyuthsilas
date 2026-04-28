@@ -101,41 +101,6 @@ I'm an **AI Engineer with 5+ years of experience** building production GenAI sys
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-### 🩺 [Multi-Modal Clinical Note Summarizer](#)
-
-> Fine-tuned **LLaMA-2 7B with LoRA** on de-identified clinical notes and radiology image captions. Deployed behind a **FastAPI + Triton Inference Server** stack on GKE with horizontal autoscaling.
-
-`PyTorch` `LoRA / PEFT` `Triton` `FastAPI` `GKE` `A10 GPU`
-
-- ✅ **87% clinician acceptance** on held-out samples (BLEU / ROUGE + clinician review)
-- ⚡ **p95 latency < 600ms** at 50 concurrent users on a single A10 GPU node
-
----
-
-### 🔎 [Semantic Search over 200K arXiv Papers](#)
-
-> End-to-end semantic search using **Sentence-Transformer embeddings**, a **FAISS ANN index**, and a React front end with **cross-encoder reranking**.
-
-`Sentence-Transformers` `FAISS` `Cross-Encoder` `React` `int8 Quantization`
-
-- ⚡ **60% faster** index build via batched GPU inference
-- 💾 **45% lower** in-memory footprint via int8 quantization
-
----
-
-### ⚡ [Distributed Training Framework for Vision-Language Models](#)
-
-> PyTorch distributed training pipeline using **FSDP and mixed-precision across 8× A100 GPUs** for CLIP-style pretraining on 50M image-text pairs.
-
-`PyTorch FSDP` `WebDataset` `Mixed Precision` `Weights & Biases`
-
-- 🚀 **2.4× pretraining throughput** vs baseline
-- 🎯 **+6 points mAP** zero-shot retrieval improvement
-- 🔬 Automated hyperparameter sweeps with W&B
 
 ---
 
