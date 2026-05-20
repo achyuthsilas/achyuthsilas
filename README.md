@@ -121,6 +121,6 @@ I'm an **AI Engineer with 5+ years of experience** building production GenAI sys
 
 I'm always happy to talk about **GenAI agents, RAG at scale, LLM evaluation, or ML infrastructure**. If you're hiring, collaborating on research, or just want to chat about the field — reach out.
 
-📧 **achyuth.uf237@gmail.com** · 💼 [**LinkedIn**](https://www.linkedin.com/in/achyuth-kumar-05775b193) · 🌐 [**Portfolio**](https://achyuthsilas.github.io/Achyuth_Portfolio)
+📧 **achyuthsilas26@gmail.com** · 💼 [**LinkedIn**](https://www.linkedin.com/in/achyuthsilas/) · 🌐 [**Portfolio**](https://achyuthsilas.github.io/Achyuth_Portfolio)
 
 <p align="center"><i>"The best way to predict the future is to build it."</i></p>
